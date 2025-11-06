@@ -19,15 +19,6 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: ''
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
     media:
       url: /images/Imagen de WhatsApp 2025-11-06 a las 11.33.12_dc0d0ae5.jpg
       altText: Unblock your team boost your time to production preview
