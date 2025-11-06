@@ -7,7 +7,7 @@ sections:
       text: BINGO D&C
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: "UNETE A NUESTRO GRUPO CLIP EN EL\_ WHATSAPP"
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
