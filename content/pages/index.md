@@ -10,7 +10,7 @@ sections:
     subtitle: "UNETE A NUESTRO GRUPO CLIP EN EL\_ WHATSAPP"
     text: ''
     actions:
-      - label: Get started
+      - label: WHATSAPP
         altText: WHATSAPP
         url: 'https://chat.whatsapp.com/DImV4L1oadh4a0OZgw4b9a'
         showIcon: false
